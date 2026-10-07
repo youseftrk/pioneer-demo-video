@@ -1,0 +1,8 @@
+node_modules/
+.env.local
+renders/
+.hyperframes/
+*.log
+tools/ffmpeg/
+snapshots/
+assets/mix/

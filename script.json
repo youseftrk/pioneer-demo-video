@@ -1,0 +1,24 @@
+{
+  "title": "Pioneer — the city that fixes itself first",
+  "voice": "Fish Audio s2.1-pro-free · voice b97618c195814c9fb7558ea34093cd28",
+  "scenes": [
+    { "id": "01-hook", "vo": "In the age of super intelligence," },
+    { "id": "02a-break", "vo": "our cities still break the old way." },
+    { "id": "02b-under", "vo": "Quietly. [pause] Underground. [pause] Until the street floods." },
+    { "id": "03-brand", "vo": "Pioneer changes that." },
+    { "id": "04a-twin", "vo": "It's a living copy of downtown Abu Dhabi." },
+    { "id": "04b-every", "vo": "Every street. Every tower." },
+    { "id": "04c-pipes", "vo": "And every pipe beneath them." },
+    { "id": "05-spot", "vo": "When a water main starts to fail, Pioneer hears it first. [emphasis] Days before it bursts." },
+    { "id": "06-agents", "vo": "Then, six AI agents take over." },
+    { "id": "07-names", "vo": "Watch. Diagnose. Plan. Patch. Dispatch. Verify." },
+    { "id": "08-act", "vo": "They weigh every fix, close the valves, and send the water another way." },
+    { "id": "09a-limits", "vo": "But you hold the limits. Any big call waits for you." },
+    { "id": "09b-why", "vo": "Ask them why, and they'll tell you. Even in Arabic." },
+    { "id": "10a-crew", "vo": "The right crew drives real streets," },
+    { "id": "10b-fixed", "vo": "and it's fixed, before it ever broke." },
+    { "id": "11a-people", "vo": "Twelve thousand four hundred people kept their water." },
+    { "id": "11b-saved", "vo": "And almost six million dirhams, saved." },
+    { "id": "12-cta", "vo": "Pioneer. [pause] The city that fixes itself first." }
+  ]
+}

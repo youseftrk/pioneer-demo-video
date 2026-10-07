@@ -1,0 +1,92 @@
+{
+  "01-hook": {
+    "file": "assets/vo/01-hook.mp3",
+    "dur": 1.933,
+    "voice": "fish"
+  },
+  "02a-break": {
+    "file": "assets/vo/02a-break.mp3",
+    "dur": 1.959,
+    "voice": "fish"
+  },
+  "02b-under": {
+    "file": "assets/vo/02b-under.mp3",
+    "dur": 3.735,
+    "voice": "fish"
+  },
+  "03-brand": {
+    "file": "assets/vo/03-brand.mp3",
+    "dur": 1.515,
+    "voice": "fish"
+  },
+  "04a-twin": {
+    "file": "assets/vo/04a-twin.mp3",
+    "dur": 2.664,
+    "voice": "fish"
+  },
+  "04b-every": {
+    "file": "assets/vo/04b-every.mp3",
+    "dur": 2.142,
+    "voice": "fish"
+  },
+  "04c-pipes": {
+    "file": "assets/vo/04c-pipes.mp3",
+    "dur": 1.646,
+    "voice": "fish"
+  },
+  "05-spot": {
+    "file": "assets/vo/05-spot.mp3",
+    "dur": 5.277,
+    "voice": "fish"
+  },
+  "06-agents": {
+    "file": "assets/vo/06-agents.mp3",
+    "dur": 2.612,
+    "voice": "fish"
+  },
+  "07-names": {
+    "file": "assets/vo/07-names.mp3",
+    "dur": 5.46,
+    "voice": "fish"
+  },
+  "08-act": {
+    "file": "assets/vo/08-act.mp3",
+    "dur": 4.284,
+    "voice": "fish"
+  },
+  "09a-limits": {
+    "file": "assets/vo/09a-limits.mp3",
+    "dur": 4.284,
+    "voice": "fish"
+  },
+  "09b-why": {
+    "file": "assets/vo/09b-why.mp3",
+    "dur": 3.735,
+    "voice": "fish"
+  },
+  "10a-crew": {
+    "file": "assets/vo/10a-crew.mp3",
+    "dur": 2.142,
+    "voice": "fish"
+  },
+  "10b-fixed": {
+    "file": "assets/vo/10b-fixed.mp3",
+    "dur": 2.351,
+    "voice": "fish"
+  },
+  "11a-people": {
+    "file": "assets/vo/11a-people.mp3",
+    "dur": 2.952,
+    "voice": "fish"
+  },
+  "11b-saved": {
+    "file": "assets/vo/11b-saved.mp3",
+    "dur": 2.769,
+    "voice": "fish"
+  },
+  "12-cta": {
+    "file": "assets/vo/12-cta.mp3",
+    "dur": 3.631,
+    "voice": "fish"
+  }
+}

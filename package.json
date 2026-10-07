@@ -1,0 +1,20 @@
+{
+  "name": "pioneer-demo-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.8.86 preview",
+    "check": "node tools/hf.mjs check --no-browser-gpu --timeout 20000",
+    "render": "node tools/hf.mjs render --quality looks --low-memory-mode --protocol-timeout 600000 --player-ready-timeout 120000 --output renders/pioneer-demo.mp4",
+    "publish": "npx --yes hyperframes@0.8.86 publish",
+    "voice:fish": "node tools/tts.mjs --force",
+    "voice:standin": "node tools/tts-local.mjs",
+    "sfx": "node tools/sfx.mjs",
+    "build": "node tools/durations.mjs && node tools/build.mjs",
+    "video": "npm run build && npm run render"
+  },
+  "devDependencies": {
+    "@ffmpeg-installer/ffmpeg": "1.1.0",
+    "@ffprobe-installer/ffprobe": "2.1.2"
+  }
+}
